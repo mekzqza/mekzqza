@@ -6,7 +6,7 @@
 🎮  Game Backend Engineer   ·   🛠️  DevOps Practitioner   ·   🇹🇭  Thailand
 ```
 
-🌐 **Portfolio & API:** [roblox-api.sukpat.dev](https://roblox-api.sukpat.dev)
+🌐 **Portfolio & API:** [roblox-api.sukpat.dev](https://roblox-api.sukpat.dev) and https://sukpat.dev/
 
 > Designing the systems *behind* the game — networking, economy, infra, and everything players never see.
 
